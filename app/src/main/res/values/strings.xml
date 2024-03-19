@@ -2,4 +2,10 @@
     <string name="app_name">Full_project_mark1</string>
     <string name="textbutton_skip">Skip</string>
     <string name="textbutton_next">Next</string>
+    <string name="Onboarding1_text_main">Quick Delivery At Your Doorstep</string>
+    <string name="Onboarding1_text1">Enjoy quick pick-up and delivery to your destination</string>
+    <string name="Onboarding4_maintext">Flexible Payment</string>
+    <string name="Onboarding4_text1">Different modes of payment either before and after delivery without stress</string>
+    <string name="Onboarding3_maintext">Real-time Tracking</string>
+    <string name="onboarding3_text1">Track your packages/items from the comfort of your home till final destination</string>
 </resources>
